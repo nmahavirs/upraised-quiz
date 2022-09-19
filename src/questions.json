@@ -1,0 +1,148 @@
+{
+  "questions": [
+    {
+      "id": 0,
+      "text": "Among the following react lifecycle which method renders at the beginning of life cycle?",
+      "imgUrl": "https://imgs.search.brave.com/0po18iS4vBrP2uZ0clJdFJxJtcU4iiNDtCoMQyYthsk/rs:fit:734:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5x/X3JMWHZmN1NqOVBX/X3ZGVVdGSG13SGFF/eSZwaWQ9QXBp",
+      "options": [
+        {
+          "id": 0,
+          "text": "componentDidUpdate()",
+          "isCorrect": false
+        },
+        {
+          "id": 1,
+          "text": "componentDidMount()",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "text": "componentWillUnmount()",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "None of the above",
+          "isCorrect": false
+        }
+      ],
+      "selectedOption": 3,
+      "timeTaken": -314
+    },
+    {
+      "id": 1,
+      "text": "_______ is used in React.js to increase performance?",
+      "options": [
+        {
+          "id": 0,
+          "text": "Virtual DOM",
+          "isCorrect": true
+        },
+        {
+          "id": 1,
+          "text": "Original DOM",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "text": "Both of the above",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "None of the above",
+          "isCorrect": false
+        }
+      ],
+      "selectedOption": 2,
+      "timeTaken": 822
+    },
+    {
+      "id": 2,
+      "text": "What is Babel?",
+      "options": [
+        {
+          "id": 0,
+          "text": "A JavaScript compiler",
+          "isCorrect": true
+        },
+        {
+          "id": 1,
+          "text": "A JavaScript interpreter",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "text": "A JavaScript transpiler",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "None of the above",
+          "isCorrect": false
+        }
+      ],
+      "selectedOption": 2,
+      "timeTaken": -584
+    },
+    {
+      "id": 3,
+      "text": "_____ port is the default where the webpack-dev-sever will run?",
+      "options": [
+        {
+          "id": 0,
+          "text": "3030",
+          "isCorrect": false
+        },
+        {
+          "id": 1,
+          "text": "3000",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "text": "8080",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "3333",
+          "isCorrect": false
+        }
+      ],
+      "selectedOption": 1,
+      "timeTaken": -239
+    },
+    {
+      "id": 4,
+      "text": "A valid react component can return only ______ elements?",
+      "options": [
+        {
+          "id": 0,
+          "text": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 1,
+          "text": "3",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "text": "2",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "1",
+          "isCorrect": true
+        }
+      ]
+    }
+  ],
+  "report": {
+    "correctAnswers": 1,
+    "inCorrectAnswers": 4,
+    "percentage": 20
+  }
+}
